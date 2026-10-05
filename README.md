@@ -77,13 +77,14 @@
     <sub> $\color{#CBECB6}{\texttt{Made}}$ </sub> <sub> $\color{#8A78B6}{\texttt{by}}$ </sub>
   </p>
   <br>
-  <p align="center">
-  <img width="200" height="100" alt="Untitled79_20261005141215" src="https://github.com/user-attachments/assets/dbd17147-4ed8-48a0-8b50-2d0754cc90d8" />
-  </p>
-  <br>
-  <br>
   
-[<img alt="Untitled76_20261004151605" src="https://github.com/user-attachments/assets/e1efac47-b93c-49a5-8f69-ffd517466f7f" />](https://github.com/sketchyremorse)
+  [<img width="200" height="100" alt="Untitled79_20261005141215" src="https://github.com/user-attachments/assets/dbd17147-4ed8-48a0-8b50-2d0754cc90d8" />](https://github.com/sketchyremorse)
+  <br>
+  <br>
+  <br
+    <p align="center">
+<img alt="Untitled76_20261004151605" src="https://github.com/user-attachments/assets/e1efac47-b93c-49a5-8f69-ffd517466f7f" />
+</p>
 <br>
 <br>
 <br>
