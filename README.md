@@ -70,6 +70,9 @@
 </p>
   <br>
   <br>
+  <img alt="Untitled80_20261005142828" src="https://github.com/user-attachments/assets/7381ae15-af21-4860-b4c2-bd886c6437e0" />
+
+  <br>
   <p align="center">
     <sub> $\color{#CBECB6}{\texttt{Made}}$ </sub> <sub> $\color{#8A78B6}{\texttt{by}}$ </sub>
   </p>
