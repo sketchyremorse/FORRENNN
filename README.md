@@ -79,9 +79,9 @@
   </p>
   <br>
   <br>
-  <p align="center">
-<img alt="Untitled76_20261004151605" src="https://github.com/user-attachments/assets/e1efac47-b93c-49a5-8f69-ffd517466f7f" />
-  </p>
+  
+[<img alt="Untitled76_20261004151605" src="https://github.com/user-attachments/assets/e1efac47-b93c-49a5-8f69-ffd517466f7f" />](https://github.com/sketchyremorse)
+<br>
 <br>
 <br>
 <br>
